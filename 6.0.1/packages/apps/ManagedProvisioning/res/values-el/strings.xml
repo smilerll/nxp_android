@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+/**
+ * Copyright (C) 2014 The Android Open Source Project
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *     http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="provisioning_error_title" msgid="6320515739861578118">"Ωχ!"</string>
+    <string name="setup_work_profile" msgid="9164519662954159586">"Ρυθμίστε το προφίλ σας"</string>
+    <string name="company_controls_workspace" msgid="2808025277267917221">"Ο οργανισμός σας ελέγχει αυτό το προφίλ και το διατηρεί ασφαλές. Εσείς ελέγχετε όλα τα υπόλοιπα στοιχεία στη συσκευή σας."</string>
+    <string name="the_following_is_your_mdm" msgid="6613658218262376404">"Η παρακάτω εφαρμογή θα χρειαστεί πρόσβαση σε αυτό το προφίλ:"</string>
+    <string name="set_up" msgid="7012862095553564169">"Ρύθμιση"</string>
+    <string name="setting_up_workspace" msgid="6116976629983614927">"Δημιουργία του προφίλ εργασίας σας…"</string>
+    <string name="admin_has_ability_to_monitor_profile" msgid="8782160676037188061">"Ο διαχειριστής σας έχει τη δυνατότητα να παρακολουθεί και να διαχειρίζεται ρυθμίσεις, εταιρική πρόσβαση, εφαρμογές και δεδομένα που σχετίζονται με το προφίλ, συμπεριλαμβανομένων της δραστηριότητας του δικτύου και των πληροφοριών τοποθεσίας της συσκευής σας."</string>
+    <string name="admin_has_ability_to_monitor_device" msgid="4534011355086694158">"Ο διαχειριστής σας έχει τη δυνατότητα να παρακολουθεί και να διαχειρίζεται τις ρυθμίσεις, την εταιρική πρόσβαση, τις εφαρμογές και τα δεδομένα που σχετίζονται με αυτήν τη συσκευή, συμπεριλαμβανομένης της δραστηριότητας δικτύου και των πληροφοριών τοποθεσίας της συσκευής σας."</string>
+    <string name="contact_your_admin_for_more_info" msgid="6870084889394621288">"Επικοινωνήστε με το διαχειριστή σας για περισσότερες πληροφορίες, συμπεριλαμβανομένων των πολιτικών απορρήτου του οργανισμού σας."</string>
+    <string name="learn_more_link" msgid="3012495805919550043">"Μάθετε περισσότερα"</string>
+    <string name="cancel_setup" msgid="2949928239276274745">"Ακύρωση"</string>
+    <string name="ok_setup" msgid="5148111905838329307">"ΟΚ"</string>
+    <string name="default_managed_profile_name" msgid="5370257687074907055">"Προφίλ εργασίας"</string>
+    <string name="delete_profile_title" msgid="3097803266123463699">"Κατάργηση προφίλ εργασίας;"</string>
+    <string name="opening_paragraph_delete_profile_unknown_company" msgid="1132833578783368037">"Η διαχείριση αυτού του προφίλ γίνεται από:"</string>
+    <string name="opening_paragraph_delete_profile_known_company" msgid="3126629826260821264">"Η διαχείριση αυτού του προφίλ γίνεται για %s χρησιμοποιώντας:"</string>
+    <string name="read_more_delete_profile" msgid="8108077458455321659"><a href="#read_this_link">"Διαβάστε αυτό"</a>" πριν συνεχίσετε."</string>
+    <string name="sure_you_want_to_delete_profile" msgid="1336653819166266605">"Όλες οι εφαρμογές και τα δεδομένα σε αυτό το προφίλ θα διαγραφούν εάν συνεχίσετε."</string>
+    <string name="delete_profile" msgid="2299218578684663459">"Διαγραφή"</string>
+    <string name="cancel_delete_profile" msgid="5155447537894046036">"Ακύρωση"</string>
+    <string name="encrypt_device_text_for_profile_owner_setup" msgid="4325067657681168120">"Για να συνεχίσετε με τη ρύθμιση του προφίλ εργασίας σας, θα πρέπει να κρυπτογραφήσετε τη συσκευή σας. Αυτό μπορεί να διαρκέσει λίγη ώρα."</string>
+    <string name="encrypt_device_text_for_device_owner_setup" msgid="7279768314707033707">"Για να συνεχίσετε με τη ρύθμιση της συσκευής σας, θα πρέπει να την κρυπτογραφήσετε. Αυτό μπορεί να διαρκέσει λίγη ώρα."</string>
+    <string name="encrypt_device_cancel" msgid="5644516574936584926">"Ακύρωση"</string>
+    <string name="encrypt_device_launch_settings" msgid="826115154646195837">"Κρυπτογράφηση"</string>
+    <string name="continue_provisioning_notify_title" msgid="5191449100153186648">"Η κρυπτογράφηση ολοκληρώθηκε"</string>
+    <string name="continue_provisioning_notify_text" msgid="3027317630111909095">"Αγγίξτε για να συνεχίσετε τη ρύθμιση του προφίλ εργασίας σας"</string>
+    <string name="managed_provisioning_error_text" msgid="7063621174570680890">"Δεν ήταν δυνατή η ρύθμιση του προφίλ εργασίας σας. Επικοινωνήστε με το τμήμα πληροφορικής υποστήριξης ή δοκιμάστε ξανά αργότερα."</string>
+    <string name="managed_provisioning_not_supported" msgid="6582227325719911795">"Η συσκευή σας δεν υποστηρίζει τα προφίλ εργασίας"</string>
+    <string name="user_is_not_owner" msgid="6193230832887977927">"Τα προφίλ εργασίας θα πρέπει να ρυθμίζονται από τον κύριο χρήστη της συσκευής"</string>
+    <!-- no translation found for device_owner_exists (8020080296133337023) -->
+    <skip />
+    <string name="maximum_user_limit_reached" msgid="7267689354022124652">"Δεν ήταν δυνατή η δημιουργία του προφίλ εργασίας καθώς έχετε φτάσει το μέγιστο αριθμό χρηστών στη συσκευή σας. Αφαιρέστε τουλάχιστον έναν χρήστη και δοκιμάστε ξανά."</string>
+    <string name="managed_provisioning_not_supported_by_launcher" msgid="8710138269807942163">"Το προφίλ εργασίας σας δεν υποστηρίζεται από αυτήν την εφαρμογή εκκίνησης. Θα πρέπει να χρησιμοποιήσετε μια συμβατή εφαρμογή εκκίνησης."</string>
+    <string name="cancel_provisioning" msgid="3408069559452653724">"Ακύρωση"</string>
+    <string name="pick_launcher" msgid="4257084827403983845">"OK"</string>
+    <string name="default_owned_device_username" msgid="3915120202811807955">"Χρήστης συσκευής εργασίας"</string>
+    <string name="setup_work_device" msgid="3028145936574439146">"Ρύθμιση της συσκευής"</string>
+    <string name="progress_data_process" msgid="7099462614425874283">"Επεξεργασία δεδομένων ρύθμισης…"</string>
+    <string name="progress_start_bluetooth" msgid="3798479957601150661">"Εκκίνηση Bluetooth…"</string>
+    <string name="progress_connect_to_wifi" msgid="9214694010080838763">"Σύνδεση με Wi-Fi…"</string>
+    <string name="progress_wipe_frp" msgid="545404730605450346">"Έλεγχος προστασίας εργοστασιακής επαναφοράς…"</string>
+    <string name="progress_download" msgid="4995057798189799156">"Λήψη εφαρμογής διαχείρισης…"</string>
+    <string name="progress_install" msgid="9169411715762296097">"Εγκατάσταση εφαρμογής διαχείρισης…"</string>
+    <string name="progress_set_owner" msgid="1292946927202510987">"Ρύθμιση του κατόχου της συσκευής…"</string>
+    <string name="device_owner_cancel_title" msgid="7909285135975063120">"Διακοπή ρύθμισης;"</string>
+    <string name="device_owner_cancel_message" msgid="7928007377743469904">"Είστε βέβαιοι ότι θέλετε να σταματήσετε τη ρύθμιση και να διαγράψετε τα δεδομένα της συσκευής σας;"</string>
+    <string name="device_owner_cancel_cancel" msgid="1052951540909389275">"Ακύρωση"</string>
+    <string name="device_owner_error_ok" msgid="2556654993515978854">"ΟΚ"</string>
+    <string name="device_owner_error_reset" msgid="1609782972753569267">"Επαναφορά"</string>
+    <string name="device_owner_error_general" msgid="5962462955470123776">"Δεν ήταν δυνατή η ρύθμιση της συσκευής σας. Επικοινωνήστε με το τμήμα πληροφορικής υποστήριξης."</string>
+    <string name="device_owner_error_already_provisioned" msgid="49944866843771627">"Αυτή η συσκευή έχει ρυθμιστεί ήδη."</string>
+    <string name="device_owner_error_already_provisioned_user" msgid="5861348691161504683">"Αυτή η συσκευή έχει ρυθμιστεί ήδη από αυτόν το χρήστη."</string>
+    <string name="device_owner_error_bluetooth" msgid="5191084800734703585">"Δεν ήταν δυνατή η εκκίνηση του Bluetooth"</string>
+    <string name="device_owner_error_wifi" msgid="4256310285761332378">"Δεν είναι δυνατή η σύνδεση στο Wi-Fi"</string>
+    <string name="device_owner_error_frp" msgid="3998112234006304859">"Μη επιτυχής έλεγχος προστασίας εργοστασιακής επαναφοράς"</string>
+    <string name="device_owner_error_hash_mismatch" msgid="184518450016295596">"Δεν ήταν δυνατή η χρήση της εφαρμογής διαχείρισης λόγω σφάλματος του αθροίσματος ελέγχου. Επικοινωνήστε με το τμήμα πληροφορικής υποστήριξης."</string>
+    <string name="device_owner_error_download_failed" msgid="4520111971592657116">"Δεν ήταν δυνατή η λήψη της εφαρμογής διαχείρισης"</string>
+    <string name="device_owner_error_package_invalid" msgid="3816725179069202140">"Δεν ήταν δυνατή η χρήση της εφαρμογής διαχείρισης. Λείπουν στοιχεία ή είναι κατεστραμμένα. Επικοινωνήστε με το τμήμα πληροφορικής υποστήριξης."</string>
+    <string name="device_owner_error_package_name_invalid" msgid="5161432357348636936">"Δεν είναι δυνατή η εγκατάσταση της εφαρμογής διαχειριστή. Το όνομα του πακέτου δεν είναι έγκυρο. Επικοινωνήστε με το τμήμα πληροφορικών συστημάτων σας."</string>
+    <string name="device_owner_error_installation_failed" msgid="684566845601079360">"Δεν ήταν δυνατή η εγκατάσταση της εφαρμογής διαχείρισης"</string>
+    <string name="device_owner_error_package_not_installed" msgid="6095079346537408556">"Η εφαρμογή διαχείρισης δεν είναι εγκατεστημένη στη συσκευή σας"</string>
+    <string name="profile_owner_cancel_title" msgid="1087667875324931402">"Διακοπή ρύθμισης;"</string>
+    <string name="profile_owner_cancel_message" msgid="3397782777804924267">"Είστε βέβαιοι ότι θέλετε να διακόψετε τη ρύθμιση;"</string>
+    <string name="profile_owner_cancel_cancel" msgid="4408725524311574891">"Όχι"</string>
+    <string name="profile_owner_cancel_ok" msgid="5951679183850766029">"Ναι"</string>
+    <string name="profile_owner_cancelling" msgid="2007485854183176973">"Γίνεται ακύρωση…"</string>
+    <string name="provisioning" msgid="4512493827019163451">"Παροχή"</string>
+    <string name="copying_certs" msgid="5697938664953550881">"Ρύθμιση πιστοποιητικών CA"</string>
+</resources>
